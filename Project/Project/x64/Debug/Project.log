@@ -1,0 +1,49 @@
+﻿  main.cpp
+D:\mysql-stuSystem\Project\Project\main.cpp(41,63): warning C4267: “参数”: 从“size_t”转换到“unsigned long”，可能丢失数据
+D:\mysql-stuSystem\Project\Project\main.cpp(51,26): warning C4244: “=”: 从“my_ulonglong”转换到“int”，可能丢失数据
+D:\mysql-stuSystem\Project\Project\main.cpp(38,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\mysql-stuSystem\Project\Project\main.cpp(40,5): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\mysql-stuSystem\Project\Project\main.cpp(98,63): warning C4267: “参数”: 从“size_t”转换到“unsigned long”，可能丢失数据
+D:\mysql-stuSystem\Project\Project\main.cpp(108,26): warning C4244: “=”: 从“my_ulonglong”转换到“int”，可能丢失数据
+D:\mysql-stuSystem\Project\Project\main.cpp(97,5): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\mysql-stuSystem\Project\Project\main.cpp(78,21): warning C4101: “row”: 未引用的局部变量
+D:\mysql-stuSystem\Project\Project\main.cpp(80,25): warning C4101: “i”: 未引用的局部变量
+D:\mysql-stuSystem\Project\Project\main.cpp(172,65): warning C4267: “参数”: 从“size_t”转换到“unsigned long”，可能丢失数据
+D:\mysql-stuSystem\Project\Project\main.cpp(179,65): warning C4267: “参数”: 从“size_t”转换到“unsigned long”，可能丢失数据
+D:\mysql-stuSystem\Project\Project\main.cpp(191,26): warning C4244: “=”: 从“my_ulonglong”转换到“int”，可能丢失数据
+D:\mysql-stuSystem\Project\Project\main.cpp(157,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\mysql-stuSystem\Project\Project\main.cpp(165,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\mysql-stuSystem\Project\Project\main.cpp(167,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\mysql-stuSystem\Project\Project\main.cpp(169,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\mysql-stuSystem\Project\Project\main.cpp(171,5): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\mysql-stuSystem\Project\Project\main.cpp(178,5): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\mysql-stuSystem\Project\Project\main.cpp(125,21): warning C4101: “row”: 未引用的局部变量
+D:\mysql-stuSystem\Project\Project\main.cpp(127,25): warning C4101: “i”: 未引用的局部变量
+D:\mysql-stuSystem\Project\Project\main.cpp(231,63): warning C4267: “参数”: 从“size_t”转换到“unsigned long”，可能丢失数据
+D:\mysql-stuSystem\Project\Project\main.cpp(238,63): warning C4267: “参数”: 从“size_t”转换到“unsigned long”，可能丢失数据
+D:\mysql-stuSystem\Project\Project\main.cpp(248,26): warning C4244: “=”: 从“my_ulonglong”转换到“int”，可能丢失数据
+D:\mysql-stuSystem\Project\Project\main.cpp(222,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\mysql-stuSystem\Project\Project\main.cpp(230,5): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\mysql-stuSystem\Project\Project\main.cpp(237,5): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\mysql-stuSystem\Project\Project\main.cpp(203,21): warning C4101: “row”: 未引用的局部变量
+D:\mysql-stuSystem\Project\Project\main.cpp(205,25): warning C4101: “i”: 未引用的局部变量
+D:\mysql-stuSystem\Project\Project\main.cpp(298,63): warning C4267: “参数”: 从“size_t”转换到“unsigned long”，可能丢失数据
+D:\mysql-stuSystem\Project\Project\main.cpp(305,63): warning C4267: “参数”: 从“size_t”转换到“unsigned long”，可能丢失数据
+D:\mysql-stuSystem\Project\Project\main.cpp(315,26): warning C4244: “=”: 从“my_ulonglong”转换到“int”，可能丢失数据
+D:\mysql-stuSystem\Project\Project\main.cpp(283,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\mysql-stuSystem\Project\Project\main.cpp(291,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\mysql-stuSystem\Project\Project\main.cpp(293,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\mysql-stuSystem\Project\Project\main.cpp(295,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\mysql-stuSystem\Project\Project\main.cpp(297,5): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\mysql-stuSystem\Project\Project\main.cpp(304,5): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\mysql-stuSystem\Project\Project\main.cpp(260,21): warning C4101: “row”: 未引用的局部变量
+D:\mysql-stuSystem\Project\Project\main.cpp(262,25): warning C4101: “i”: 未引用的局部变量
+D:\mysql-stuSystem\Project\Project\main.cpp(352,63): warning C4267: “参数”: 从“size_t”转换到“unsigned long”，可能丢失数据
+D:\mysql-stuSystem\Project\Project\main.cpp(362,26): warning C4244: “=”: 从“my_ulonglong”转换到“int”，可能丢失数据
+D:\mysql-stuSystem\Project\Project\main.cpp(351,5): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\mysql-stuSystem\Project\Project\main.cpp(413,63): warning C4267: “参数”: 从“size_t”转换到“unsigned long”，可能丢失数据
+D:\mysql-stuSystem\Project\Project\main.cpp(423,26): warning C4244: “=”: 从“my_ulonglong”转换到“int”，可能丢失数据
+D:\mysql-stuSystem\Project\Project\main.cpp(380,17): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\mysql-stuSystem\Project\Project\main.cpp(412,5): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\mysql-stuSystem\Project\Project\main.cpp(469,9): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Project.vcxproj -> D:\mysql-stuSystem\Project\x64\Debug\Project.exe

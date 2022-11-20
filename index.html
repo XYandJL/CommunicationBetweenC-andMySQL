@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>HTML+JS</title>
+    <style>
+        #root{
+            width: 270px;
+            height: 150px;
+            background-color: pink;
+            margin: auto;
+            margin-top: 300px;
+        }
+        input{
+            margin-left: 40px;
+            margin-top: 10px;
+        }
+    </style>
+</head>
+<body>
+    <div id="root">
+        <input type="Enter Username：" id="username" name="name" placeholder="Enter Username"><br/>
+        <input type="Enter Password：" id="password" name="pwd" placeholder="Enter Password"><br/>
+        <input type="submit" value="javaScript提示弹窗" onclick="OnclickBtn()">
+
+    </div>
+
+    <script>
+        var name = document.getElementById("username").value;
+        var pwd = document.getElementById("password");
+        function OnclickBtn() {
+            alert("javaScript提示弹窗")
+        }
+    </script>
+</body>
+</html>
